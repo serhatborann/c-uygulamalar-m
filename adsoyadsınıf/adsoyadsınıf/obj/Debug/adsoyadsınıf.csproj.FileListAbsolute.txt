@@ -1,0 +1,33 @@
+C:\Users\PC-1\Desktop\Serhat Boran Alp 283\adsoyadsınıf\adsoyadsınıf\bin\Debug\adsoyadsınıf.exe.config
+C:\Users\PC-1\Desktop\Serhat Boran Alp 283\adsoyadsınıf\adsoyadsınıf\bin\Debug\adsoyadsınıf.exe
+C:\Users\PC-1\Desktop\Serhat Boran Alp 283\adsoyadsınıf\adsoyadsınıf\bin\Debug\adsoyadsınıf.pdb
+C:\Users\PC-1\Desktop\Serhat Boran Alp 283\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Serhat Boran Alp 283\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-1\Desktop\Serhat Boran Alp 283\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.Form1.resources
+C:\Users\PC-1\Desktop\Serhat Boran Alp 283\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.Properties.Resources.resources
+C:\Users\PC-1\Desktop\Serhat Boran Alp 283\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.csproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\Serhat Boran Alp 283\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Serhat Boran Alp 283\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.exe
+C:\Users\PC-1\Desktop\Serhat Boran Alp 283\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.pdb
+C:\Users\Administrator\OneDrive\Masaüstü\adsoyadsınıf\adsoyadsınıf\bin\Debug\adsoyadsınıf.exe.config
+C:\Users\Administrator\OneDrive\Masaüstü\adsoyadsınıf\adsoyadsınıf\bin\Debug\adsoyadsınıf.exe
+C:\Users\Administrator\OneDrive\Masaüstü\adsoyadsınıf\adsoyadsınıf\bin\Debug\adsoyadsınıf.pdb
+C:\Users\Administrator\OneDrive\Masaüstü\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Masaüstü\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\OneDrive\Masaüstü\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.Form1.resources
+C:\Users\Administrator\OneDrive\Masaüstü\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Masaüstü\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Masaüstü\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Masaüstü\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.exe
+C:\Users\Administrator\OneDrive\Masaüstü\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.pdb
+C:\Users\PC-1\Desktop\adsoyadsınıf\adsoyadsınıf\bin\Debug\adsoyadsınıf.exe.config
+C:\Users\PC-1\Desktop\adsoyadsınıf\adsoyadsınıf\bin\Debug\adsoyadsınıf.exe
+C:\Users\PC-1\Desktop\adsoyadsınıf\adsoyadsınıf\bin\Debug\adsoyadsınıf.pdb
+C:\Users\PC-1\Desktop\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-1\Desktop\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.Form1.resources
+C:\Users\PC-1\Desktop\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.Properties.Resources.resources
+C:\Users\PC-1\Desktop\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.csproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.exe
+C:\Users\PC-1\Desktop\adsoyadsınıf\adsoyadsınıf\obj\Debug\adsoyadsınıf.pdb
